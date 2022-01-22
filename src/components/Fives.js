@@ -11,7 +11,7 @@ import { Words } from './Words';
 import { CharPerField, YellowGreen } from './Letters';
 
 import { fives } from '../lib/fives';
-import * as WORDS from '../lib/wordlist';
+import { words as WORDS } from '../lib/wordlist';
 
 const DEFAULT_GREY = '';
 const DEFAULT_GREEN = ['', '', '', '', ''];

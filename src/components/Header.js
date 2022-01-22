@@ -37,7 +37,7 @@ export const Header = ({reset}) => {
 
     return (
         <header className={classes.root}>
-            <h1>Fives</h1>
+            <h1>fives</h1>
             <button>
                 <ReplayIcon onClick={reset}/>
             </button>
